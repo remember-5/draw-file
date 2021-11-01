@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T02:57:39.826Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="14.9.8" etag="sjcKLU1URMNQ4H0mowqD" type="github"><diagram id="-Ue07mU6Pf70v0qbAelw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-01T03:15:06.320Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="X60dttKJAPOoQf1oJrLP" version="14.9.8" type="github">
+  <diagram id="-Ue07mU6Pf70v0qbAelw" name="Page-1">
+    <mxGraphModel dx="727" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fFiWTOyk9VKNke9C7eUC-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1436.81" y="380" width="210" height="342" as="geometry" />
+        </mxCell>
+        <mxCell id="fFiWTOyk9VKNke9C7eUC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fFiWTOyk9VKNke9C7eUC-3" target="fFiWTOyk9VKNke9C7eUC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fFiWTOyk9VKNke9C7eUC-3" value="Web H5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFiWTOyk9VKNke9C7eUC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fFiWTOyk9VKNke9C7eUC-4" target="fFiWTOyk9VKNke9C7eUC-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fFiWTOyk9VKNke9C7eUC-4" value="NextCloud&lt;br&gt;Web/App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFiWTOyk9VKNke9C7eUC-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fFiWTOyk9VKNke9C7eUC-5" target="fFiWTOyk9VKNke9C7eUC-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fFiWTOyk9VKNke9C7eUC-5" value="Java Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFiWTOyk9VKNke9C7eUC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fFiWTOyk9VKNke9C7eUC-6" target="fFiWTOyk9VKNke9C7eUC-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fFiWTOyk9VKNke9C7eUC-6" value="Python Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFiWTOyk9VKNke9C7eUC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fFiWTOyk9VKNke9C7eUC-8" target="fFiWTOyk9VKNke9C7eUC-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fFiWTOyk9VKNke9C7eUC-8" value="AriaNg" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="402.15" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFiWTOyk9VKNke9C7eUC-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fFiWTOyk9VKNke9C7eUC-18" target="fFiWTOyk9VKNke9C7eUC-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fFiWTOyk9VKNke9C7eUC-18" value="Minio Web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFiWTOyk9VKNke9C7eUC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fFiWTOyk9VKNke9C7eUC-19" target="fFiWTOyk9VKNke9C7eUC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fFiWTOyk9VKNke9C7eUC-19" value="Desktop GUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fFiWTOyk9VKNke9C7eUC-21" value="/data/minio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470.0044262295082" y="450.0014285714286" width="143.60655737704917" height="62.142857142857146" as="geometry" />
+        </mxCell>
+        <mxCell id="fFiWTOyk9VKNke9C7eUC-14" value="/data/aria2-download" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470.0044262295082" y="530.0028571428572" width="143.60655737704917" height="62.142857142857146" as="geometry" />
+        </mxCell>
+        <mxCell id="fFiWTOyk9VKNke9C7eUC-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fFiWTOyk9VKNke9C7eUC-34" target="fFiWTOyk9VKNke9C7eUC-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1400" y="432" />
+              <mxPoint x="1400" y="551" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fFiWTOyk9VKNke9C7eUC-34" value="Arai2 Pro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220.0044262295082" y="401.0828571428572" width="143.60655737704917" height="62.142857142857146" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
