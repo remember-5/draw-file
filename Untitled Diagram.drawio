@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T09:22:59.066Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="uHz-R7xEPTdqZbSY7DRO" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-12T09:24:21.124Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="zMzY0a5EJruerBZwpIol" version="15.5.4" type="github">
   <diagram id="G8wTLtnxxF_a71g-igOY" name="Page-1">
     <mxGraphModel dx="2111" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -193,6 +193,9 @@
         </mxCell>
         <mxCell id="8IRLoSpyoqPYh5H4hLr8-66" value="台球设备" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="800" y="775" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8IRLoSpyoqPYh5H4hLr8-67" value="&lt;h1&gt;消费者&lt;/h1&gt;&lt;p&gt;服务中包含生产者代码和消费者代码&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="610" width="131" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
