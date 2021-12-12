@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T09:24:21.124Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="zMzY0a5EJruerBZwpIol" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-12T09:26:19.901Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="5yzOxwFw3nrYDm3a78FC" version="15.5.4" type="github">
   <diagram id="G8wTLtnxxF_a71g-igOY" name="Page-1">
     <mxGraphModel dx="2111" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -196,6 +196,12 @@
         </mxCell>
         <mxCell id="8IRLoSpyoqPYh5H4hLr8-67" value="&lt;h1&gt;消费者&lt;/h1&gt;&lt;p&gt;服务中包含生产者代码和消费者代码&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="610" width="131" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8IRLoSpyoqPYh5H4hLr8-68" value="客户端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8IRLoSpyoqPYh5H4hLr8-69" value="&lt;h1&gt;台球设备&lt;/h1&gt;&lt;p&gt;与服务模块使用websocket保持长期连接。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="610" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
