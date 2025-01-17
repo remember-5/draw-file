@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O2fK8Qc-7N3_8Rds8Wx0-1" value="" style="rounded=1;whiteSpace=wrap;html=1;container=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="120" width="510" height="250" as="geometry" />
+          <mxGeometry x="200" y="160" width="510" height="250" as="geometry" />
         </mxCell>
         <mxCell id="O2fK8Qc-7N3_8Rds8Wx0-2" value="入驻申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O2fK8Qc-7N3_8Rds8Wx0-1">
           <mxGeometry x="30" y="95" width="110" height="60" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="210" y="10" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O2fK8Qc-7N3_8Rds8Wx0-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O2fK8Qc-7N3_8Rds8Wx0-1">
-          <mxGeometry x="185" y="95" width="110" height="60" as="geometry" />
+          <mxGeometry x="200" y="95" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
